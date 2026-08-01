@@ -106,7 +106,7 @@ Final year software engineering project: a full-stack Android application connec
 | **Performance** | Real-time data sync via Firestore listeners; optimized Compose recomposition |
 | **Security** | Firebase Auth with scoped Firestore security rules |
 | **Impact** | Graded **80/100** — final year dissertation project |
-| **Repository** | `[Add repository link]` |
+| **Repository** | `https://github.com/JoeRilez/DevelopmentProject` |
 
 CragCrowd was designed around real climber workflows — discovering crags, logging sends, and sharing conditions — with an architecture built to scale beyond a single university project into a genuinely usable tool.
 
@@ -125,7 +125,7 @@ A companion project exploring practical LLM integration inside a real product co
 | **Performance** | Asynchronous request handling to keep UI responsive during inference calls |
 | **Security** | API-key isolation, scoped backend calls |
 | **Impact** | Demonstrated applied LLM integration within a full-stack mobile product |
-| **Repository** | `[Add repository link]` |
+
 
 CragBot was built to answer a practical question: how do you integrate an LLM into a mobile app in a way that feels native rather than bolted on.
 
@@ -176,35 +176,6 @@ Held ongoing lifeguarding responsibilities across four years, balancing the role
 | 🎓 **BSc Software Engineering, Graduate** | De Montfort University |
 | 🧗 **Club Captain** | De Montfort University Climbing Club |
 | 🥇 **4 Years Lifeguarding Service** | Sustained alongside full-time study |
-
-</div>
-
-<br/>
-
----
-
-## 🟣 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=JoeRilez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=8b5cf6&text_color=c4b5fd&ring_color=7c3aed" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JoeRilez&theme=tokyonight&hide_border=true&background=0d0221&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa" width="49%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoeRilez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a78bfa&text_color=c4b5fd" width="49%"/>
-
-</div>
-
-<br/>
-
----
-
-## 🟣 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JoeRilez&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 
 </div>
 
