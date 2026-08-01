@@ -235,7 +235,7 @@ current_focus:
 
 <div align="center">
 
-<a href="mailto:joe.rilez@sky.com"><img src="https://img.shields.io/badge/Gmail-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:joe.rilez@sky.com"><img src="https://img.shields.io/badge/Email-5b21b6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/joe-riley-b130b133a/"><img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/JoeRilez"><img src="https://img.shields.io/badge/GitHub-6d28d9?style=for-the-badge&logo=github&logoColor=white"/></a>
 
